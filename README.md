@@ -1,23 +1,20 @@
-# Quotes_sentiment_app
+# Quotes_sentiment_app- Inspire Me
 A quoting machine web application that tailors the proper quote for the user based on natural language sentiment.
 
 ## Methodology
 
-We 
-develop our ideas in a local Jupyter notebook
+-gathered data (famous quotes)
 
-gathered data (famous quotes)
+-used the Vader NLP sentiment algorithm
 
-used the Vader NLP sentiment algorithm
+-tuned our models and dispensing mechanisms locally
 
-tuned our models and dispensing mechanisms locally
+-designed the look and feel
 
-designed the look and feel
+-got graphics
 
-got graphics
+-extended responsive HTML templates
 
-extended responsive HTML templates
+-port to the web 
 
-port to the web 
-
-enjoy great quotes in tune with our moods 24/7
+-enjoy great quotes in tune with our moods 24/7
