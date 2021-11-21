@@ -1,5 +1,6 @@
 # Quotes_sentiment_app- Inspire Me
 A quoting machine web application that tailors the proper quote for the user based on natural language sentiment.
+This sentiment based quoting machine will use VADER Sentiment Analysis.
 
 ## Methodology
 
