@@ -19,4 +19,4 @@ A quoting machine web application that tailors the proper quote for the user bas
 
 -enjoy great quotes in tune with our moods 24/7
 
-<img align="center" height="400" width="500" alt="GIF" src="" />
+<img align="center" height="400" width="500" alt="GIF" src="https://github.com/kashishmehra/Quotes_sentiment_app/blob/main/flowchart.png?raw=true" />
